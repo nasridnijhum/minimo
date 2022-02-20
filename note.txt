@@ -1,0 +1,62 @@
+section 7
+reusable block
+fonts
+inconsolota regular
+playfair display reg
+ubuntu lite
+playfair display reg
+ubuntu lite
+
+color
+black- #000000
+ash- 626262
+
+
+ui ux
+1.color comb
+	cat
+	logo-color-2/3
+
+2.typography
+	fonts-2/3
+
+3.consistancy
+	
+
+4.spacing
+	button/link
+
+cdn-easy
+download-best
+
+font-family: 'Playfair Display', serif
+    font-family: 'Playfair Display', serif;
+
+    font-family: 'Ubuntu', sans-serif;
+
+
+
+
+
+<!--blog2 start-->
+				
+			<div class="blog2">
+				<div class="s_img">
+					<img src="images/blog5.jpg" alt="Minimo">
+				</div>
+				<p class="c_light">Lifestyle</p>
+				<h2 class="c_h1">Top 10 song for running</h2>
+				<p class="c_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+			</div>
+			<!--single end-->
+						<!--single start-->
+			<div class=" blog blog2">
+				<div class="s_img">
+					<img src="images/blog6.jpg" alt="Minimo">
+				</div>
+				<p class="c_light">Lifestyle</p>
+				<h2 class="c_h1">Cold winter days</h2>
+				<p class="c_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+			</div>
+			<!--single end-->
+<!--blog2 end-->
